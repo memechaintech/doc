@@ -1,3 +1,4 @@
-# doc
+# Index
 
-## Index
+[RPC API Documentation](./rpc.md)
+
